@@ -1,4 +1,4 @@
-![デリダの肖像](derrida.jpeg)
+![デリダの肖像](derrida.jpg)
 
 # <a name="header-1-8f7f4c1ce7a4f933663d10543562b096"></a> About
 フランス現代思想の巨頭です。<br>
