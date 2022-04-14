@@ -9,7 +9,7 @@
 - フランス・パリ
 - フッサール現象学を中心に、仏文学や精神分析などを横断的に読んでいます。
 
-# <a name="header-1-aa79c5d1cbe3d96218a92481bcfaa39c"></a> Works 
+# <a name="header-1-aa79c5d1cbe3d96218a92481bcfaa39c"></a> Works(extract)
 ## <a name="header-2-cce99c598cfdb9773ab041d54c3d973a"></a> 前期
 - [声と現象](https://www.amazon.co.jp/%E5%A3%B0%E3%81%A8%E7%8F%BE%E8%B1%A1-%E3%81%A1%E3%81%8F%E3%81%BE%E5%AD%A6%E8%8A%B8%E6%96%87%E5%BA%AB-%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%83%BB%E3%83%87%E3%83%AA%E3%83%80/dp/4480089225/ref=sr_1_1?adgrpid=56031034791&gclid=CjwKCAjw6dmSBhBkEiwA_W-EoJqt5om3I68nOtdHqHaeBWm9SyPidAGRVIuUAvV77ye_Amy6opBOxRoCFjcQAvD_BwE&hvadid=553902349831&hvdev=c&hvlocphy=1009308&hvnetw=g&hvqmt=e&hvrand=12725169689524909879&hvtargid=kwd-335468000118&hydadcr=16034_13486745&jp-ad-ap=0&keywords=%E5%A3%B0%E3%81%A8%E7%8F%BE%E8%B1%A1&qid=1649907640&sr=8-1)
 - [エクリチュールと差異](https://www.amazon.co.jp/%E3%82%A8%E3%82%AF%E3%83%AA%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AB%E3%81%A8%E5%B7%AE%E7%95%B0-%E5%8F%A2%E6%9B%B8%E3%83%BB%E3%82%A6%E3%83%8B%E3%83%99%E3%83%AB%E3%82%B7%E3%82%BF%E3%82%B9-%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF-%E3%83%87%E3%83%AA%E3%83%80/dp/458801000X)
@@ -26,3 +26,6 @@
 
 # <a name="header-1-8f7f4c1ce7a4f933663d10543562b096"></a> Image Song
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8TLWJ0ZKjhY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# <a name="header-1-8f7f4c1ce7a4f933663d10543562b096"></a> Derrida Bot
+<a class="twitter-timeline" data-width="400" data-height="600" href="https://twitter.com/J_Derrida_Bot?ref_src=twsrc%5Etfw">Tweets by J_Derrida_Bot</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
